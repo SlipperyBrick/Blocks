@@ -1,0 +1,16 @@
+.menu-title {
+  display: block;
+  width: 3rem;
+  height: 3rem;
+  margin: auto;
+  background-image: url("../assets/blocks-icon.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.right-buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

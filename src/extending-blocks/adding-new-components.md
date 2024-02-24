@@ -1,3 +1,0 @@
-Go through the process of adding a new component, link the "Standards" page from the "Contributing" section to notify the reader about the markdown standards that MUST be adhered to when adding new components.
-
-Demonstrate the simplicity of the blocks factory and how adding a new component in "blocks_factory.py" can be done and how its implementation can be coded in "blocks_components.py" (show that each new component class MUST implement its own version of "create_component()")
